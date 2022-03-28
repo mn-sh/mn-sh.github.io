@@ -1,2 +1,2 @@
 # README
-[link](mn-sh.github.io)
+mn-sh.github.io
